@@ -1,0 +1,16 @@
+{
+    "name": "baxter/php-avance",
+    "description": "quete composer",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/Wcs/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dldvlpr",
+            "email": "dormoy.dev@gmail.com"
+        }
+    ],
+    "require": {}
+}
